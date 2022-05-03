@@ -1,0 +1,22 @@
+Path,Sample.Name,Phenotype,Cell.ID,Total.Cells,Cell.X.Position,Cell.Y.Position,CD8,FoxP3,PD.L1,CD4,Treg,APC,Epithelial,Tcell,CellType,Group,Patient
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Epithelial,37,0,1253,25,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,53,0,609,29,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,52,0,559,30,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Epithelial,48,0,488,29,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,65,0,467,35,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,89,0,464,43,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,733,0,1334,374,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,767,0,1295,388,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,813,0,1301,419,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Epithelial,993,0,533,518,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Epithelial,1018,0,512,530,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Epithelial,1025,0,536,540,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Tcell,1319,0,1351,702,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1332,0,1362,708,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1378,0,1354,729,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1402,0,1345,739,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1314,0,1304,702,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Tcell,1329,0,1324,708,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1376,0,1298,726,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1394,0,1323,737,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,320_1.im3,Other,1401,0,1295,741,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,320

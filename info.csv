@@ -1,0 +1,165 @@
+case_id,slide_id,Diagnosis
+patient1001,patient1001,Chronic Pancreatitis
+patient1003,patient1003,PanIN
+patient1007,patient1007,PDAC
+patient1011,patient1011,PDAC
+patient1012,patient1012,PDAC
+patient1013,patient1013,PDAC
+patient1018,patient1018,Chronic Pancreatitis
+patient1023,patient1023,IPMN
+patient1026,patient1026,PanIN
+patient1027,patient1027,Chronic Pancreatitis
+patient1030,patient1030,PDAC
+patient1036,patient1036,Chronic Pancreatitis
+patient1038,patient1038,PDAC
+patient1039,patient1039,PDAC
+patient1040,patient1040,PDAC
+patient1041,patient1041,IPMN
+patient1043,patient1043,PanIN
+patient1045,patient1045,Chronic Pancreatitis
+patient1046,patient1046,PDAC
+patient1052,patient1052,PanIN
+patient1053,patient1053,Chronic Pancreatitis
+patient1057,patient1057,PDAC
+patient1058,patient1058,IPMN
+patient1059,patient1059,IPMN
+patient1060,patient1060,MCN
+patient1061,patient1061,PanIN
+patient201,patient201,PDAC
+patient203,patient203,PDAC
+patient205,patient205,IPMN
+patient207,patient207,PanIN
+patient208,patient208,PanIN
+patient209,patient209,Chronic Pancreatitis
+patient211,patient211,PDAC
+patient212,patient212,PDAC
+patient215,patient215,IPMN
+patient216,patient216,IPMN
+patient217,patient217,PanIN
+patient220,patient220,PDAC
+patient222,patient222,PDAC
+patient223,patient223,PDAC
+patient229,patient229,PDAC
+patient23,patient23,Chronic Pancreatitis
+patient233,patient233,IPMN
+patient235,patient235,PanIN
+patient238,patient238,PDAC
+patient239,patient239,PDAC
+patient240,patient240,PDAC
+patient241,patient241,PDAC
+patient2412,patient2412,NA
+patient242,patient242,IPMN
+patient247,patient247,PDAC
+patient255,patient255,Chronic Pancreatitis
+patient257,patient257,PDAC
+patient259,patient259,IPMN
+patient26,patient26,PDAC
+patient260,patient260,IPMN
+patient27,patient27,PDAC
+patient28,patient28,PDAC
+patient29,patient29,PDAC
+patient302,patient302,PDAC
+patient303,patient303,PDAC
+patient304,patient304,PDAC
+patient305,patient305,IPMN
+patient306,patient306,IPMN
+patient309,patient309,Chronic Pancreatitis
+patient31,patient31,Chronic Pancreatitis
+patient313,patient313,PDAC
+patient314,patient314,IPMN
+patient316,patient316,PanIN
+patient318,patient318,Chronic Pancreatitis
+patient319,patient319,PDAC
+patient320,patient320,PDAC
+patient322,patient322,PDAC
+patient326,patient326,Chronic Pancreatitis
+patient328,patient328,PDAC
+patient329,patient329,PDAC
+patient330,patient330,PDAC
+patient337,patient337,PDAC
+patient338,patient338,PDAC
+patient340,patient340,PDAC
+patient345,patient345,Chronic Pancreatitis
+patient348,patient348,PDAC
+patient349,patient349,PDAC
+patient350,patient350,IPMN
+patient352,patient352,PanIN
+patient353,patient353,Chronic Pancreatitis
+patient354,patient354,Chronic Pancreatitis
+patient358,patient358,IPMN
+patient359,patient359,IPMN
+patient361,patient361,PanIN
+patient363,patient363,Chronic Pancreatitis
+patient4,patient4,PDAC
+patient402,patient402,PDAC
+patient404,patient404,PDAC
+patient407,patient407,PanIN
+patient408,patient408,PanIN
+patient409,patient409,Chronic Pancreatitis
+patient413,patient413,PDAC
+patient414,patient414,IPMN
+patient415,patient415,IPMN
+patient416,patient416,PanIN
+patient420,patient420,PDAC
+patient421,patient421,PDAC
+patient422,patient422,PDAC
+patient428,patient428,PDAC
+patient429,patient429,PDAC
+patient430,patient430,PDAC
+patient431,patient431,PDAC
+patient439,patient439,PDAC
+patient440,patient440,PDAC
+patient441,patient441,IPMN
+patient444,patient444,Chronic Pancreatitis
+patient452,patient452,PanIN
+patient454,patient454,Chronic Pancreatitis
+patient458,patient458,PDAC
+patient5,patient5,PanIN
+patient52,patient52,PDAC
+patient57,patient57,PanIN
+patient6,patient6,Chronic Pancreatitis
+patient600,patient600,MCN
+patient604,patient604,MCN
+patient608,patient608,MCN
+patient609,patient609,MCN
+patient62,patient62,PDAC
+patient702,patient702,IPMN
+patient706,patient706,IPMN
+patient707,patient707,IPMN
+patient711,patient711,IPMN
+patient712,patient712,IPMN
+patient715,patient715,IPMN
+patient721,patient721,IPMN
+patient723,patient723,IPMN
+patient725,patient725,IPMN
+patient726,patient726,IPMN
+patient727,patient727,IPMN
+patient736,patient736,IPMN
+patient737,patient737,IPMN
+patient74,patient74,PDAC
+patient741,patient741,IPMN
+patient746,patient746,IPMN
+patient748,patient748,IPMN
+patient751,patient751,IPMN
+patient753,patient753,IPMN
+patient754,patient754,IPMN
+patient755,patient755,IPMN
+patient757,patient757,IPMN
+patient763,patient763,IPMN
+patient768,patient768,IPMN
+patient769,patient769,IPMN
+patient779,patient779,IPMN
+patient782,patient782,IPMN
+patient784,patient784,IPMN
+patient801,patient801,Chronic Pancreatitis
+patient802,patient802,Chronic Pancreatitis
+patient809,patient809,Chronic Pancreatitis
+patient810,patient810,Chronic Pancreatitis
+patient811,patient811,Chronic Pancreatitis
+patient812,patient812,Chronic Pancreatitis
+patient83,patient83,PDAC
+patient88,patient88,PDAC
+patient89,patient89,PDAC
+patient90,patient90,PDAC
+patient92,patient92,Chronic Pancreatitis
+patient93,patient93,Chronic Pancreatitis

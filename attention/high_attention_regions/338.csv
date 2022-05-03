@@ -1,0 +1,3 @@
+Path,Sample.Name,Phenotype,Cell.ID,Total.Cells,Cell.X.Position,Cell.Y.Position,CD8,FoxP3,PD.L1,CD4,Treg,APC,Epithelial,Tcell,CellType,Group,Patient
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,338_1.im3,Epithelial,42,0,642,34,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,338
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,338_1.im3,Other,662,0,93,358,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,338

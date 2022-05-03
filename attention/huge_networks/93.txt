@@ -1,0 +1,4 @@
+APC Helper T-Cell Other
+0 1 1
+1 0 0
+1 0 0

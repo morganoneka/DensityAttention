@@ -1,0 +1,7 @@
+enrichm,p_higher_orig,p_lower_orig,PI_value,cell_1,cell_2
+-1,1,0.99,0,APC,APC
+-1,1,0.99,0,APC,Other
+-1,1,0.99,0,Other,Other
+0.00868224309980077,0.98,1,3.78963015873954e-05,APC,Tumor
+0.00723156923107605,0.98,1,3.15643924479926e-05,Other,Tumor
+-8.21245149346454e-05,1,0.97,-7.20554277827155e-07,Tumor,Tumor

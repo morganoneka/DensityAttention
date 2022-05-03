@@ -1,0 +1,4 @@
+enrichm,p_higher_orig,p_lower_orig,PI_value,cell_1,cell_2
+-1,1,0.89,-0.0457574905606751,Tumor,Tumor
+0.0460696486959848,0.89,1,0.00210803151534014,Other,Tumor
+-0.00198234313242657,1,0.89,-9.07070471700279e-05,Other,Other

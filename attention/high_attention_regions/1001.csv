@@ -1,0 +1,12 @@
+Path,Sample.Name,Phenotype,Cell.ID,Total.Cells,Cell.X.Position,Cell.Y.Position,CD8,FoxP3,PD.L1,CD4,Treg,APC,Epithelial,Tcell,CellType,Group,Patient
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,24,0,1214,24,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,35,0,1217,30,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,40,0,1233,30,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,43,0,1202,31,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,1431,0,430,717,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,1452,0,445,729,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,1412,0,399,707,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,1419,0,412,713,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Other,1436,0,408,721,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Epithelial,1987,0,1358,981,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,1001
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,1001_2.im3,Epithelial,2088,0,1120,1027,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,1001

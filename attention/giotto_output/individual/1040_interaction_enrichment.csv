@@ -1,0 +1,4 @@
+enrichm,p_higher_orig,p_lower_orig,PI_value,cell_1,cell_2
+-1,1,0.89,-0.0457574905606751,T-reg,T-reg
+0.0538930079952019,0.89,1,0.00246600880462684,Other,T-reg
+-0.00344580458018989,1,0.89,-0.00015767137055197,Other,Other

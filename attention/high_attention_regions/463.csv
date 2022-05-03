@@ -1,0 +1,260 @@
+Path,Sample.Name,Phenotype,Cell.ID,Total.Cells,Cell.X.Position,Cell.Y.Position,CD8,FoxP3,PD.L1,CD4,Treg,APC,Epithelial,Tcell,CellType,Group,Patient
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,18,0,1224,10,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,91,0,1195,19,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,371,0,407,57,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,397,0,414,63,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,427,0,401,67,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,434,0,395,67,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,444,0,379,69,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,455,0,390,70,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,406,0,333,63,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,407,0,339,63,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,440,0,350,69,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,461,0,340,72,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,362,0,305,59,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,363,0,317,58,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,396,0,285,62,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,405,0,311,63,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,426,0,314,67,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,460,0,316,74,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,464,0,295,72,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,465,0,303,73,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,355,0,233,56,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,370,0,264,58,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,420,0,245,66,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,439,0,256,67,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,463,0,240,72,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,376,0,220,59,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,403,0,186,62,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,404,0,223,63,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,433,0,206,66,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,454,0,185,71,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,343,0,164,56,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,354,0,146,56,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,369,0,72,58,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,389,0,63,60,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,425,0,49,66,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,546,0,458,88,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,550,0,437,88,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,809,0,1358,130,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,810,0,1366,132,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,826,0,1349,135,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,865,0,1352,144,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,990,0,1362,164,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1059,0,1367,177,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1118,0,236,186,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1158,0,248,193,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1198,0,236,201,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,1105,0,219,186,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1124,0,228,188,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1210,0,225,203,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1117,0,160,186,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1151,0,173,192,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1185,0,179,197,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1205,0,152,203,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1116,0,103,187,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1157,0,103,192,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1163,0,138,194,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1176,0,117,197,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1189,0,107,200,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1221,0,120,202,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1114,0,58,187,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1115,0,74,186,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1132,0,55,188,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1133,0,61,189,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1140,0,91,189,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1150,0,79,192,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1165,0,64,196,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1166,0,70,196,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1175,0,80,197,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1184,0,84,197,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1191,0,88,199,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1220,0,60,204,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1156,0,30,195,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1287,0,194,217,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1263,0,150,212,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1298,0,180,221,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1306,0,142,220,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1274,0,125,215,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,1231,0,57,207,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1232,0,73,208,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1255,0,81,211,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1281,0,68,215,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1305,0,74,221,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1277,0,43,215,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1370,0,290,238,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1319,0,188,223,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1348,0,206,232,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1326,0,175,225,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1347,0,167,231,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1318,0,121,223,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1372,0,110,237,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1330,0,64,227,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1353,0,63,234,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1354,0,79,233,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1363,0,70,236,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1351,0,39,232,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1412,0,395,246,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1465,0,358,255,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1469,0,343,256,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1445,0,305,252,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1405,0,265,244,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1419,0,211,247,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1440,0,189,251,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1386,0,173,242,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1453,0,158,254,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1395,0,105,242,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1411,0,110,245,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1431,0,101,249,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1464,0,94,255,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1385,0,50,243,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1394,0,63,243,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1399,0,78,245,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1424,0,84,248,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1452,0,83,253,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1460,0,78,256,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1410,0,33,246,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1439,0,44,250,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1468,0,39,257,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1546,0,447,272,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1568,0,435,275,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1514,0,386,264,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1532,0,411,268,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1555,0,280,274,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1507,0,275,263,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1567,0,262,277,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1513,0,139,264,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1554,0,183,274,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1506,0,114,261,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1521,0,94,268,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1502,0,48,262,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1512,0,64,267,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1545,0,54,271,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1553,0,84,274,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1573,0,75,277,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1584,0,494,279,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1627,0,497,287,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1630,0,479,288,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1582,0,425,279,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1583,0,437,281,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1599,0,418,281,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1600,0,432,283,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1608,0,425,286,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1654,0,398,295,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1620,0,353,286,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1642,0,336,294,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1581,0,277,279,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1612,0,284,285,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1641,0,299,292,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1650,0,208,293,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1653,0,202,294,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1604,0,155,283,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1652,0,160,295,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1660,0,173,296,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1668,0,492,298,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1715,0,466,312,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1724,0,487,313,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1693,0,437,305,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1662,0,385,297,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1697,0,101,305,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1661,0,92,298,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1708,0,51,310,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1726,0,55,315,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1681,0,46,301,pos,neg,neg,neg,neg,neg,neg,pos,CTL,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1746,0,514,317,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1760,0,527,320,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1736,0,479,316,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1765,0,500,324,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1774,0,492,325,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1806,0,504,331,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1752,0,185,319,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1768,0,206,323,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1772,0,219,325,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1740,0,175,317,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1771,0,140,326,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1803,0,148,331,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1816,0,124,332,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1821,0,132,333,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1802,0,63,330,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1810,0,57,332,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1739,0,34,317,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1757,0,29,319,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1837,0,510,341,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1866,0,529,345,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,1870,0,515,346,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1877,0,205,349,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1824,0,152,335,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1861,0,165,345,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1851,0,112,342,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1859,0,67,345,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1885,0,36,351,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1956,0,588,367,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1914,0,521,358,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1931,0,210,361,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1895,0,169,355,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1955,0,176,366,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1954,0,128,368,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1958,0,94,366,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1908,0,42,356,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1987,0,1302,373,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1993,0,1328,374,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2012,0,1332,377,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2026,0,1295,381,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2039,0,1304,383,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2046,0,1313,385,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2054,0,1324,385,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,2055,0,1330,386,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2062,0,1292,389,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2004,0,1275,377,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2011,0,1266,378,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2053,0,1265,387,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1999,0,1233,377,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2003,0,1202,378,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2035,0,1236,383,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2061,0,1212,388,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2025,0,1157,379,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2029,0,1151,380,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2045,0,1191,386,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1986,0,1136,374,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,1992,0,1133,374,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2024,0,1107,379,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2034,0,1135,383,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,2006,0,523,378,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2017,0,509,379,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,2018,0,531,380,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2005,0,216,379,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2047,0,219,385,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2015,0,164,379,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2031,0,180,382,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2063,0,141,388,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1995,0,71,376,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2027,0,65,380,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,1980,0,41,371,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2013,0,19,380,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2014,0,27,380,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2036,0,39,383,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2095,0,1365,396,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2067,0,1297,391,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2080,0,1330,392,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2079,0,1250,394,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2094,0,1261,397,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,APC,2100,0,1243,396,neg,neg,neg,pos,neg,pos,neg,neg,APC,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2106,0,1256,397,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2139,0,1251,404,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2078,0,1237,393,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2088,0,1210,394,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2134,0,1242,405,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2137,0,1205,406,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2138,0,1235,405,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2077,0,1183,392,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2126,0,1110,404,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2087,0,1100,395,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2105,0,1090,397,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Epithelial,2112,0,1095,399,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2096,0,149,397,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Tcell,2109,0,101,397,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2107,0,68,398,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2127,0,80,403,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2140,0,67,408,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2135,0,32,406,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463
+C:\Users\Sam\Documents\Normal Pancreas - TMAs,463_1.im3,Other,2140,0,67,408,neg,neg,neg,pos,neg,neg,neg,neg,Other,Chronic Pancreatitis,463

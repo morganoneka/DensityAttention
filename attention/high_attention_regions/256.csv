@@ -1,0 +1,29 @@
+Path,Sample.Name,Phenotype,Cell.ID,Total.Cells,Cell.X.Position,Cell.Y.Position,CD8,FoxP3,PD.L1,CD4,Treg,APC,Epithelial,Tcell,CellType,Group,Patient
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,80,0,466,43,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,42,0,488,16,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,79,0,479,24,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,88,0,469,24,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,93,0,494,28,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Epithelial,224,0,742,115,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,287,0,743,140,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,237,0,608,121,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,242,0,590,122,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,249,0,600,124,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,284,0,630,137,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Epithelial,234,0,575,120,neg,neg,neg,pos,neg,neg,pos,neg,Tumor,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,282,0,566,138,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,303,0,506,150,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,304,0,524,147,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,1137,0,370,555,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,1138,0,390,555,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,1106,0,284,535,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,1125,0,306,548,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Tcell,1133,0,274,554,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,1196,0,272,591,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Tcell,1230,0,279,605,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Tcell,36,0,1301,21,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_1.im3,Other,83,0,1295,42,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Tcell,51,0,1319,19,neg,neg,neg,pos,neg,neg,neg,pos,Helper T-Cell,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,67,0,1296,21,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Other,78,0,1290,22,neg,neg,neg,pos,neg,neg,neg,neg,Other,PDAC,256
+G:\Mantra.Opal\Experiments 2018\2018.04.12 Pancreas.Combined.Howard2.Howard1.Shi1-4\2019March Analysis\PDAC,256_2.im3,Tcell,105,0,1319,29,pos,neg,neg,neg,neg,neg,neg,pos,CTL,PDAC,256
